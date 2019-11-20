@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-  this line is add in master
 
-
-=======
 this line is adda to dev branch
->>>>>>> dev
 
-
-
-
-
-
-  Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
 
 Do some work on a website.
 
