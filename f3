@@ -1,4 +1,10 @@
 
 this line is adda to dev branch
 
- this is line is to add rever:t
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+
+Do some work on a website.
+
+Create a branch for a new user story you’re working on.
+
+Do some work in that branch.
